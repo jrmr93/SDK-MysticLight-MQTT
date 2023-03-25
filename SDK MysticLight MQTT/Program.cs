@@ -6,7 +6,7 @@ namespace MysticLightController
     {
         static void Main(string[] args)
         {
-            LightController controller = new LightController("s");
+            LightController controller = new LightController();
             Console.WriteLine("Se encontraron " + controller.Devices.Length + " dispositivos");
             int i = 0;
             foreach (string dev in controller.Devices)

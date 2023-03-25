@@ -13,18 +13,3 @@ C:\Users\Admin\Desktop\Repositorios\SDK MysticLight MQTT\SDK MysticLight MQTT\ob
 C:\Users\Admin\Desktop\Repositorios\SDK MysticLight MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.pdb
 C:\Users\Admin\Desktop\Repositorios\SDK MysticLight MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Repositorios\SDK MysticLight MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\ref\SDK MysticLight MQTT.dll
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\bin\Debug\net6.0\SDK MysticLight MQTT.exe
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\bin\Debug\net6.0\SDK MysticLight MQTT.deps.json
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\bin\Debug\net6.0\SDK MysticLight MQTT.runtimeconfig.json
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\bin\Debug\net6.0\SDK MysticLight MQTT.dll
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\bin\Debug\net6.0\SDK MysticLight MQTT.pdb
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.AssemblyInfo.cs
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.dll
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\refint\SDK MysticLight MQTT.dll
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.pdb
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\SDK MysticLight MQTT.genruntimeconfig.cache
-C:\Users\Admin\Desktop\Repositorios\SDK-MysticLight-MQTT\SDK MysticLight MQTT\obj\Debug\net6.0\ref\SDK MysticLight MQTT.dll
