@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SDK MysticLight MQTT/1.0.0": {
+        "runtime": {
+          "SDK MysticLight MQTT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDK MysticLight MQTT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
